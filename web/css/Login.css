@@ -1,0 +1,23 @@
+body{
+    background-color: #222D32;
+}
+
+h1{
+    color: blue;
+}
+
+.div1{
+    height: 250px;
+    width: 400px;
+    background-color: #F5F5F5;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border: solid black 2px; 
+    
+    
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}
